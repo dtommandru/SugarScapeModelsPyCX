@@ -3,14 +3,14 @@ This is repositiry contains implementations of Rob Axtell's and Joshua Epstein's
 ## Table of contents
 
 - Requirements and Installations
-- Models
+- Models and Folder Structure
 
 ## Requirements and Installations
 
 To run the code make sure have Python installed, and follow the installation steps as mentioned in the [PyCx](https://github.com/hsayama/PyCX)
 
 
-## Models
+## Models and Folder Structure
 ```bash
 .
 ├── pycxsimulator.py                         # This is file that does all the magic, cloned from [PyCx](https://github.com/hsayama/PyCX)
