@@ -8,7 +8,7 @@ This is repositiry contains implementation of Rob Axtell's and Joshua Epstein's 
 
 ## Requirements and Installations
 
-To run the code make sure have Python installed, and follow the installation steps as mentioned in the [PyCx](https://github.com/hsayama/PyCX)
+To run the code make sure have Python installed, and follow the installation steps as mentioned in the [PyCX](https://github.com/hsayama/PyCX)
 
 
 ## Models and Folder Structure
