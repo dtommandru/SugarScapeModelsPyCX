@@ -11,7 +11,7 @@ To run the code make sure have Python installed, and follow the installation ste
 
 
 ## Models
-
+```bash
 .
 ├── pycxsimulator.py                         # This is file that does all the magic, cloned from [PyCx](https://github.com/hsayama/PyCX)
 ├── abm-sugarscape.py                        # Baseline model as mentioned in the Chapter 1 of the book "Growing Artificial Societies"
@@ -20,3 +20,4 @@ To run the code make sure have Python installed, and follow the installation ste
 ├── abm-sugarscape-less-greedy-agents.py     # Some agents aren't greedy for sugar, rather move to random location
 ├── abm-sugarscape-grided-initial.py         # Try running this, You'll migration emerge!
 └── README.md
+```
