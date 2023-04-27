@@ -25,3 +25,7 @@ To run the code make sure have Python installed, and follow the installation ste
 ```
 
 ## Credits
+
+Thanks for the inputs and guidance from [Dr. Hiroki Sayama](https://github.com/hsayama) and [Annaji Rao Challa](https://github.com/Annajiraochalla) for helping me navigate through the project.
+
+The mirror image code is taken from [Geeks for Geeks](https://www.geeksforgeeks.org/find-mirror-image-point-2-d-plane/)
