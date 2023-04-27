@@ -5,6 +5,7 @@ This is repositiry contains implementation of Rob Axtell's and Joshua Epstein's 
 
 - Requirements and Installations
 - Models and Folder Structure
+- Credits
 
 ## Requirements and Installations
 
@@ -22,3 +23,5 @@ To run the code make sure have Python installed, and follow the installation ste
 ├── abm-sugarscape-grided-initial.py         # Try running this, You'll see migration emerge!
 └── README.md
 ```
+
+## Credits
