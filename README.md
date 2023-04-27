@@ -14,7 +14,7 @@ To run the code make sure have Python installed, and follow the installation ste
 ## Models and Folder Structure
 ```bash
 .
-├── pycxsimulator.py                         # This is file that does all the magic, cloned from [PyCx](https://github.com/hsayama/PyCX)
+├── pycxsimulator.py                         # This is file that does all the magic, cloned from PyCx - https://github.com/hsayama/PyCX 
 ├── abm-sugarscape.py                        # Baseline model as mentioned in the Chapter 1 of the book "Growing Artificial Societies Social Science from the Bottom Up"
 ├── abm-sugarscape-with-vinegar.py           # A variation of baseline model with agents pollute the environment with Vinegar, environment has healing capacity or depolluting capabilities, and Agents prioritixze the location with less Vinegar 40% times
 ├── abm-sugarscape-seasons.py                # Sugar availabity flips every 50 iterations
