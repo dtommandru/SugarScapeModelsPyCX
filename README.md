@@ -18,6 +18,6 @@ To run the code make sure have Python installed, and follow the installation ste
 ├── abm-sugarscape-with-vinegar.py           # A variation of baseline model with agents pollute the environment with Vinegar, environment has healing capacity or depolluting capabilities, and Agents prioritixze the location with less Vinegar 40% times
 ├── abm-sugarscape-seasons.py                # Sugar availabity flips every 50 iterations
 ├── abm-sugarscape-less-greedy-agents.py     # Some agents aren't greedy for sugar, rather move to random location
-├── abm-sugarscape-grided-initial.py         # Try running this, You'll migration emerge!
+├── abm-sugarscape-grided-initial.py         # Try running this, You'll see migration emerge!
 └── README.md
 ```
