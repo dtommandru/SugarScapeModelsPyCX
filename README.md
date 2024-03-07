@@ -1,4 +1,7 @@
-﻿# SugarScape Models Using PyCX
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10791554.svg)](https://doi.org/10.5281/zenodo.10791554)
+
+ 
+# SugarScape Models Using PyCX
 This repository contains implementation of Rob Axtell's and Joshua Epstein's original SugarScape model from [Growing Artificial Societies - Social Science from the Bottom Up](https://mitpress.mit.edu/9780262550253/growing-artificial-societies/) and few variations using PyCX
 
 ## Table of contents
